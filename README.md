@@ -1,4 +1,7 @@
 # Solving crime cases with SQL
+
+![alt text](https://github.com/william-brooker/Crime-Solving-SQL/blob/main/Crime%20Solving.jpg)
+
 ## Solving crime one query at a time... Here I worked to identify the identity of a mysterious murderer and uncover his motives and realise he was not in it alone...
 
 Embarking on a data-driven quest, I immersed myself in a captivating SQL project, adopting the mantra of "Solving crime one query at a time." At its core, the project aimed to unravel the mystery surrounding a shadowy murderer, but little did I know that each SQL query would not only unveil the perpetrator's identity but also expose a tapestry of motives and reveal that the culprit was not acting alone.
